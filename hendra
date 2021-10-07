@@ -1,0 +1,32 @@
+#EXTM3U x-tvg-url="http://stavol.my.id/epg/epg.xml", refresh="3600"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", Spo TV 1
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX5BweyCqAV8vwWx_4n7L0kSlZwWTBt-ORqw&usqp=CAU" group-title="Sports", Spo TV 2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+
+#EXTINF: -1 tvg-name="FOX SPORTS HD" group-title="Sports", FOX SPORTS HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745744
+
+#EXTINF:-1 group-title="Sports" ,Fox sports 1 HD (link2)
+http://38.131.11.34:1080/play/a02k
+
+#EXTINF: -1 tvg-name="FOX SPORTS 2 HD" group-title="Sports", FOX SPORTS 2 HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745745
+
+#EXTINF:-1 group-title="Sports" ,Fox Sports 2 HD (link2)
+http://38.131.11.34:1080/play/a033
+
+#EXTINF: -1 tvg-name="FOX SPORTS 3 HD" group-title="Sports", FOX SPORTS 3 HD
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745746
+
+#EXTINF:-1 group-title="Sports" ,Fox Sports 3 HD (link2)
+http://38.131.11.34:1080/play/a034
+
+#EXTINF: -1 tvg-name="beIN SPORTS" group-title="Sports", beIN SPORTS
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745747
+
+#EXTINF: -1 tvg-name="bEIN MAX" group-title="Sports", bEIN MAX
+https://m3u-editor.com/serve/1f5c2f00-c50a-11eb-a9cf-49fb7da8769f/324745748
+
+
